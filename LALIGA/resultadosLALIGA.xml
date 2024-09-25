@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LALIGA SYSTEM "LALIGA.dtd">
+<LALIGA>
+    <JUEGO>
+        <FECHA>15-09-2024</FECHA>
+        <EQUIPO_LOCAL>Real Madrid</EQUIPO_LOCAL>
+        <EQUIPO_VISITANTE>FC Barcelona</EQUIPO_VISITANTE>
+        <RESULTADO>2-1</RESULTADO>
+        <ESTADISTICAS>
+            <POSESION>55% - 45%</POSESION>
+            <TIROS_PORTERIA>6 - 4</TIROS_PORTERIA>
+            <FALTAS>12 - 14</FALTAS>
+        </ESTADISTICAS>
+    </JUEGO>
+    <JUEGO>
+        <FECHA>16-09-2024</FECHA>
+        <EQUIPO_LOCAL>Sevilla FC</EQUIPO_LOCAL>
+        <EQUIPO_VISITANTE>Atletico Madrid</EQUIPO_VISITANTE>
+        <RESULTADO>1-1</RESULTADO>
+        <ESTADISTICAS>
+            <POSESION>48% - 52%</POSESION>
+            <TIROS_PORTERIA>3 - 5</TIROS_PORTERIA>
+            <FALTAS>10 - 9</FALTAS>
+        </ESTADISTICAS>
+    </JUEGO>
+</LALIGA>
